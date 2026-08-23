@@ -14,17 +14,17 @@ Public experimental release with deterministic reconstruction, SHA-256 verificat
 
 > **Ask the history. Prove the answer.**
 
-### [Grokking Lab](https://github.com/IgorRybakoff/igor-rybakov-rnd-portfolio/tree/main/projects/grokking-lab)
+### [Grokking Lab](https://github.com/IgorRybakoff/grokking-lab)
 
-Controlled PyTorch research environment for delayed generalization and mechanistic analysis. Current work includes a confirmed long-run grokking checkpoint on modular addition and artifact-based verification of experimental claims.
+**Measured delayed generalization in a compact PyTorch Transformer.**
 
-### [SEACS](https://github.com/IgorRybakoff/igor-rybakov-rnd-portfolio/tree/main/projects/seacs)
+Public experimental release with executable training code, deterministic smoke tests, automated CI, and a frozen 40,000-step modular-addition run with checksums and functional checkpoint replay.
 
-Closed-loop R&D architecture for stability control in distributed and agentic systems:
+### [SEACS Lab](https://github.com/IgorRybakoff/seacs-lab)
 
-`Observe → Analyze → Decide → Simulate → Execute → Verify`
+**Deterministic reference simulator for bounded autonomous-control decisions.**
 
-The focus is on cascade-risk detection, mitigation selection, reversibility, uncertainty handling, and post-action verification.
+Public experimental reference release with runnable TypeScript code, trust-gated decisions, deterministic tests, exact artifact replay, checksums, automated CI, and explicit limitations. Private policies, operational thresholds, production heuristics, and unpublished know-how are not included.
 
 ## Additional research directions
 
