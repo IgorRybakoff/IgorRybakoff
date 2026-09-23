@@ -26,6 +26,12 @@ Public experimental release with executable training code, deterministic smoke t
 
 Public experimental reference release with runnable TypeScript code, trust-gated decisions, deterministic tests, exact artifact replay, checksums, automated CI, and explicit limitations. Private policies, operational thresholds, production heuristics, and unpublished know-how are not included.
 
+### [SEACS Reliability Demo](https://github.com/IgorRybakoff/seacs-reliability-demo)
+
+**Eight synthetic AI reliability scenarios with reproducible Golden Run 003 artifacts.**
+
+[Open the live demo](https://igorrybakoff.github.io/seacs-reliability-demo/) · [Read the evidence boundary](https://github.com/IgorRybakoff/seacs-reliability-demo#evidence-boundary). The public fixtures illustrate safety dispositions; they are not production evidence or a replay of the private implementation.
+
 ## Additional research directions
 
 - **BASIS** — verified multi-model arbitration, evidence tracking, and structured disagreement;
